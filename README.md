@@ -1,4 +1,4 @@
-K3NYEL
+noK3NYEL
 
 Software Developer
 
@@ -43,7 +43,9 @@ Languages
 </p>Currently
 
 Building Finora:
-src="https://github.com/K3NYEL/finora" 
+<p>
+https://github.com/K3NYEL/finora
+</p>
 
 Learning more about:
 
