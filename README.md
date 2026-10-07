@@ -42,7 +42,8 @@ Languages
   <img src="https://skillicons.dev/icons?i=windows" height="45" alt="Windows" />
 </p>Currently
 
-Building Finora.
+Building Finora:
+src="https://github.com/K3NYEL/finora" 
 
 Learning more about:
 
