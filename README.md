@@ -42,9 +42,9 @@ Languages
   <img src="https://skillicons.dev/icons?i=windows" height="45" alt="Windows" />
 </p>Currently
 
-Building Finora:
+Building Myfinc:
 <p>
-https://github.com/K3NYEL/finora
+https://github.com/K3NYEL/myfinc
 </p>
 
 Learning more about:
