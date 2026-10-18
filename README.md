@@ -1,6 +1,6 @@
-noK3NYEL
+My Name is K3NYEL
 
-Software Developer and Web Developer 
+I'm a Software Developer and Web Developer 
 
 I'm a developer from the Dominican Republic interested in software development, systems and technology.
 
